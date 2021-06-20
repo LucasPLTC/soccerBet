@@ -1,3 +1,6 @@
 [submodule "mobile"]
 	path = mobile
 	url = https://github.com/LucasPLTC/mobile
+[submodule "BootSoccerWeb"]
+	path = BootSoccerWeb
+	url = https://github.com/paulo-matheus/BootSoccerWeb
